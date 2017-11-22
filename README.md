@@ -1,7 +1,7 @@
 # Hospital Information Systems (HIS)
 
 ## Avviso
-__La prossima lezione di HIS è prevista per martedì 14 novembre alle ore 17:00 in aula 5E.__
+__La prossima lezione di HIS è prevista per martedì 28 novembre alle ore 15:00 in aula 5E.__
 
 __Si consiglia di partecipare muniti di portatile.__
 
@@ -38,3 +38,11 @@ __Si consiglia di partecipare muniti di portatile.__
 1. [CEN/TC 251 TEST](http://svel.to/owu)
 2. [Cartella clinica elettronica TEST](http://svel.to/owv)
 3. [RIS/PACS TEST](http://svel.to/nf8)
+
+### 14 nov 2017
+
+### 21 nov 2017
+
+### 22 nov 2017
+
+1. [HL7](http://svel.to/njw), [TEST](http://svel.to/nki)
