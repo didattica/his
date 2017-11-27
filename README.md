@@ -46,3 +46,5 @@ __Si consiglia di partecipare muniti di portatile.__
 ### 22 nov 2017
 
 1. [HL7](http://svel.to/njw), [TEST](http://svel.to/nki)
+2. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
+3. [La diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
