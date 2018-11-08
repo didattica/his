@@ -33,3 +33,9 @@ __La prossima lezione di HIS è prevista per giovedì 8 novembre alle ore 17:00 
 3. [RIS/PACS](http://svel.to/ouo), [TEST](http://svel.to/nf8)
 
 ### 8 nov 2018
+<!--
+1. [HL7](http://svel.to/njw), [TEST](http://svel.to/nki)
+2. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
+4. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
+3. [La diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+-->
