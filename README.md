@@ -1,9 +1,9 @@
 # Hospital Information Systems (HIS)
 
 ## Avviso
-__La prossima lezione di HIS è prevista per giovedì 8 novembre alle ore 17:00 in aula ???.__
+__La prossima lezione di HIS è prevista per venerdì 9 novembre alle ore 17:00 in aula 18.__
 
-<!--__Si consiglia di partecipare muniti di portatile.__-->
+__Si consiglia di partecipare muniti di portatile.__
 
 * [Foglio presenze studenti](http://svel.to/z51)
 * [Calendario lezioni](http://svel.to/zxy)
@@ -22,6 +22,7 @@ __La prossima lezione di HIS è prevista per giovedì 8 novembre alle ore 17:00 
 2. [Digital Encoding](http://svel.to/ojq), [TEST](http://svel.to/oka)
 
 ### 23 oct 2018
+
 1. [How internet works](http://svel.to/oe7), [TEST](http://svel.to/oe8)
 1. [Digital image](http://svel.to/on0), [TEST](http://svel.to/omz)
 2. [Web graphic](http://svel.to/on2), [TEST](http://svel.to/ndz)
@@ -33,9 +34,9 @@ __La prossima lezione di HIS è prevista per giovedì 8 novembre alle ore 17:00 
 3. [RIS/PACS](http://svel.to/ouo), [TEST](http://svel.to/nf8)
 
 ### 8 nov 2018
-<!--
+
 1. [HL7](http://svel.to/njw), [TEST](http://svel.to/nki)
 2. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
-4. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
-3. [La diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+3. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
+<!--3. [La diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
 -->
