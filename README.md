@@ -1,7 +1,7 @@
 # Hospital Information Systems (HIS)
 
 ## Avviso
-__La prossima lezione di HIS è prevista per venerdì 9 novembre alle ore 17:00 in aula 18.__
+__La prossima lezione di HIS è prevista per martedì 2 novembre alle ore 17:00 in aula 3.__
 
 __Si consiglia di partecipare muniti di portatile.__
 
@@ -39,4 +39,13 @@ __Si consiglia di partecipare muniti di portatile.__
 2. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
 3. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
 <!--3. [La diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+-->
+
+### 9 nov 2018
+1. [WordPress - Introduzione](http://svel.to/102x)
+
+<!--
+### 13 nov 2018
+1. [WordPress - form](http://svel.to/103z)
+2. [FORM](http://svel.to/nlw), [TEST](http://svel.to/nkf)
 -->
