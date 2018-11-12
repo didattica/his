@@ -1,7 +1,7 @@
 # Hospital Information Systems (HIS)
 
 ## Avviso
-__La prossima lezione di HIS è prevista per martedì 13 novembre alle ore 17:00 in aula 3.__
+__La prossima lezione di HIS è prevista per martedì 13 novembre alle ore 15:00 in aula 3.__
 
 __Si consiglia di partecipare muniti di portatile.__
 
