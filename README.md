@@ -44,8 +44,8 @@ __Si consiglia di partecipare muniti di portatile.__
 ### 9 nov 2018
 1. [WordPress - Introduzione](http://svel.to/102x)
 
-<!--
 ### 13 nov 2018
-1. [WordPress - form](http://svel.to/103z)
-2. [FORM](http://svel.to/nlw), [TEST](http://svel.to/nkf)
--->
+1. [FORM](http://svel.to/nlw), [TEST](http://svel.to/nkf)
+2. [WordPress - form](http://svel.to/103z)
+
+
