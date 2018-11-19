@@ -1,9 +1,9 @@
 # Hospital Information Systems (HIS)
 
 ## Avviso
-__La prossima lezione di HIS è prevista per lunedì 19 novembre alle ore 17:00 in sala riunioni.__
-
-__Si consiglia di partecipare muniti di portatile.__
+__L'esame scritto di HIS è prevista per martedì 20 novembre alle ore 9:15 in aula 18.__
+<!--
+__Si consiglia di partecipare muniti di portatile.__-->
 
 * [Foglio presenze studenti](http://svel.to/z51)
 * [Calendario lezioni](http://svel.to/zxy)
@@ -57,4 +57,7 @@ __Si consiglia di partecipare muniti di portatile.__
 
 ### 16 nov 2018 
 1. [HIS, Data Analysis](http://svel.to/10g4), [TEST](http://svel.to/10ia)
+
+### 19 nov 2018 
+1. [ DICOM in Python](http://svel.to/10od)
 
